@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @mubashirnhasir  
+### 👋 Hi, I’m Mubashir Nisar  
 🚀 **Frontend Developer** | Passionate about building scalable web applications and cloud solutions.
 
 ### 👀 I’m interested in  
