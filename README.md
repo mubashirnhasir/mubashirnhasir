@@ -19,7 +19,7 @@
 ### 📫 How to reach me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mubashir_Nisar-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/mubashir-nisar](https://www.linkedin.com/in/mobashshirnesar/))  
 [![Email](https://img.shields.io/badge/Email-Contact-blue?style=flat)](mailto:mubashirnhasir@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat)]((https://www.behance.net/mubashirnhasir))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat)]([https://www.behance.net/mubashirnhasir])  
 
 ### 😄 Pronouns  
 He/Him  
