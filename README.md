@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Mubashir Nisar  
-🚀 **Frontend Developer** | Passionate about building scalable web applications and cloud solutions.
+**Frontend Developer** 
 
 ### 👀 I’m interested in  
 - Web Development (React.js, Next.js, Node.js)  
