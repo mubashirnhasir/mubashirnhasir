@@ -8,10 +8,10 @@
 
 ### 🌱 I’m currently learning  
 - **NodeJS**  
-- **MySql**  
+- **MongoDB**  
 - **System Design**  
 
-### 💞️ I’m looking to collaborate on  
+### I’m looking to collaborate on  
 - Open-source projects  
 - DevOps automation & cloud security solutions  
 - Fullstack web applications  
