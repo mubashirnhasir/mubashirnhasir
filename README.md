@@ -7,8 +7,8 @@
 - Open-Source Contributions & Collaboration  
 
 ### 🌱 I’m currently learning  
-- **NodeJS**  
-- **MongoDB**  
+- **MySQL**  
+- **Backend**  
 - **System Design**  
 
 ### I’m looking to collaborate on  
