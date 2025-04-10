@@ -107,7 +107,7 @@ I'm a passionate **Frontend Developer** with a flair for building responsive, sc
 - **Role**: Designed and developed the website for the company.
 
 ## [PromoDe Agro](https://promodeagro.com/)
-- **Role**: Designed the website and helped with frontend development.
+- **Role**: Designed the complete Quick-commerce website and helped with frontend development.
 
 ## [JKMKSolutions](https://jkmksolutions.com/)
 - **Role**: Designed and developed the website for JKMK Solutions.
