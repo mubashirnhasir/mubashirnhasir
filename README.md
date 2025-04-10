@@ -100,6 +100,9 @@ I'm a passionate **Frontend Developer** with a flair for building responsive, sc
 
 # Websites Designed and Developed
 
+## [JKMKSolutions](https://jkmksolutions.com/)
+- **Role**: Designed and developed the website for JKMK Solutions.
+  
 ## [Profx Trading Consultants](https://profxtradingconsultants.com/)
 - **Role**: Designed and developed the **User Panel**, **Admin Panel**, and developed the **Admin side** of the courses website.
 
@@ -109,8 +112,6 @@ I'm a passionate **Frontend Developer** with a flair for building responsive, sc
 ## [PromoDe Agro](https://promodeagro.com/)
 - **Role**: Designed the complete Quick-commerce website and helped with frontend development.
 
-## [JKMKSolutions](https://jkmksolutions.com/)
-- **Role**: Designed and developed the website for JKMK Solutions.
 
 ---
 
