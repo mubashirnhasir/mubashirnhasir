@@ -25,7 +25,7 @@ I'm a passionate **Frontend Developer** with a flair for building responsive, sc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/npm/@egoist/tailwindcss-icons@1.9.0/+esm" height="50" />
 </div>
 
 ### 📦 State Management
