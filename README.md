@@ -58,12 +58,59 @@ I'm a passionate **Frontend Developer** with a flair for building responsive, sc
 ---
 
 ## 💼 Projects & Experience
+# HRMS Project
 
-### 🏠 HRMS Platform  
-Built a full-stack HRMS (Human Resource Management System) with advanced modules like Leave Management, Role-based Access Control, and Attendance Tracking using Next.js, MongoDB, and Tailwind.
+## Frontend:
+- Built with **React** and **Next.js**.
+- **Tailwind CSS** for responsive and modern design.
+- **Axios** for handling API requests.
 
-### 💼 Real Estate & Rental Services  
-Developed a custom real estate and rental car website for client-side booking, listing, and automated availability checks using modern frontend tooling.
+## Backend:
+- Built using **Express.js**.
+- **MongoDB** for storing user and employee data.
+- **JWT-based Authentication** and **Role-Based Access Control (RBAC)** for secure access.
+- Integrated **Nodemailer** to send email notifications for leave requests and approvals.
+
+## Features:
+- **User Authentication** (Login, Logout).
+- **Leave Management** (Request, Approve, Reject Leaves).
+- **Attendance Tracking** (Mark attendance for employees).
+- **Admin Dashboard** for HR management.
+- **Notification System** for leave requests, approvals, etc.
+
+---
+
+# React Chatbot
+
+## Frontend:
+- Developed with **React**.
+- Used **WebSocket** for real-time communication between the bot and users.
+- Custom **React Hooks** for state management and handling user input.
+
+## Backend:
+- Built with **Node.js** and **Express**.
+- **Rule-based Engine** to handle user queries and provide automated responses based on predefined rules.
+
+## Features:
+- **Customizable Rule-based Responses** for user queries.
+- **API Integration** to fetch real-time data and provide dynamic responses.
+- **Real-Time Chat Interface** for seamless communication.
+
+---
+
+# Websites Designed and Developed
+
+## [Profx Trading Consultants](https://profxtradingconsultants.com/)
+- **Role**: Designed and developed the **User Panel**, **Admin Panel**, and developed the **Admin side** of the courses website.
+
+## [Talent Cogent](https://talentcogent.com/)
+- **Role**: Designed and developed the website for the company.
+
+## [PromoDe Agro](https://promodeagro.com/)
+- **Role**: Designed the website and helped with frontend development.
+
+## [JKMKSolutions](https://jkmksolutions.com/)
+- **Role**: Designed and developed the website for JKMK Solutions.
 
 ---
 
