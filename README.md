@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Mubashir%20Nisar&fontAlignY=50&color=gradient)
+![waving]([https://capsule-render.vercel.app/api?type=waving&height=200&text=Mubashir%20Nisar&fontAlignY=50&color=gradient](https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Input%20text&reversal=false&fontAlign=50&animation=blink))
 
 I'm a passionate **Frontend Developer** with a flair for building responsive, scalable, and cloud-ready web apps using **React.js**, **Next.js**, and **Node.js**. I thrive on turning ideas into polished products and love working across the stack to deliver seamless user experiences.
 
