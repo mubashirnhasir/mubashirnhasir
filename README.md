@@ -60,6 +60,11 @@ I'm a passionate **Frontend Developer** with a flair for building responsive, sc
 ## 💼 Projects & Experience
 # HRMS Project
 
+## [BoltHR](https://bolt-hr.com/)
+## [Employee Panel](https://employee.bolt-hr.com/)
+## [Admin Panel](https://admin.bolt-hr.com/)
+- **Role**: Spearheaded the end-to-end design of the HRMS application and collaborated as a full-stack developer, partnering with the team to implement intuitive front-end interfaces and scalable back-end services.
+
 ## Frontend:
 - Built with **React** and **Next.js**.
 - **Tailwind CSS** for responsive and modern design.
@@ -99,11 +104,6 @@ I'm a passionate **Frontend Developer** with a flair for building responsive, sc
 ---
 
 # Websites Designed and Developed
-
-## [BoltHR](https://bolt-hr.com/)
-## [Employee Panel](https://employee.bolt-hr.com/)
-## [Admin Panel](https://admin.bolt-hr.com/)
-- **Role**: Spearheaded the end-to-end design of the HRMS application and collaborated as a full-stack developer, partnering with the team to implement intuitive front-end interfaces and scalable back-end services.
 
 ## [JKMKSolutions](https://jkmksolutions.com/)
 - **Role**: Designed and developed the website for JKMK Solutions.
